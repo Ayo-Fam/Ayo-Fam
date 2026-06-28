@@ -6,7 +6,7 @@ My work sits at the intersection of product engineering, agent systems, client o
 
 ## Current Focus
 
-- Apex Core: the operating framework for AI agents, skills, coordination, and execution standards
+- Apex Radius: AI operating systems, revenue infrastructure, and production automation
 - Client revenue systems: intake, automation, dashboards, commerce, and service workflows
 - Product infrastructure: deployment paths, observability, secure local tooling, and repeatable launch systems
 - AI operations: multi-agent coordination, memory, verification gates, and production-grade handoff loops
@@ -21,4 +21,5 @@ My work sits at the intersection of product engineering, agent systems, client o
 
 ## Links
 
-- Apex Radius: https://www.apexradiuslabs.com
+- Apex Radius: https://www.apexradius.io
+- GitHub organization: https://github.com/apexradius
